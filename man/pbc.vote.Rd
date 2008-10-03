@@ -1,11 +1,11 @@
-\name{pbc}
-\alias{pbc}
+\name{pbc.vote}
+\alias{pbc.vote}
 \docType{data}
-\title{pbc}
+\title{pbc.vote}
 \description{
    	Precinct level data for Palm Beach County, Florida from the 2000 U.S. Presidential election
 }
-\usage{pbc}
+\usage{pbc.vote}
 \format{
   A data frame where each case (row) is one of 516 precincts.  The column variables are defined by:
 	\describe{	
