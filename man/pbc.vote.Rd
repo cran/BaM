@@ -9,37 +9,17 @@
 \format{
   A data frame where each case (row) is one of 516 precincts.  The column variables are defined by:
 	\describe{	
-  \item{average}{Average age of precinct voters}
-  \item{prctjoin}{Precinct number}
-  \item{tech}{Average age of precinct voters}
+  \item{avgage}{Average age of precinct voters}
+  \item{tech}{Voting Technology}
   \item{badballots}{combined overvotes and undervotes}
   \item{turnout}{Total ballots cast}
-  \item{dem}{Democratic party}
-  \item{arp}{American reform party of Florida}
-  \item{fcp}{Florida conservative party}
-  \item{fvp}{Family values party}
-  \item{gre}{Green party}
-  \item{int}{Independent party}
-  \item{law}{Natural law party}
-  \item{lib}{Libertarian party}
-  \item{npa}{No party affiliation}
-  \item{nrs}{Not registered with state}
-  \item{ref}{Reform party}
   \item{rep}{Republican}
-  \item{res}{Reform silly party}
-  \item{sop}{Southern party}
-  \item{spf}{Socialist party}
-  \item{swp}{Socialist workers party}
-  \item{wtp}{We the people}
-  \item{aia}{American indian/alaskan}
-  \item{asp}{Asian/pacific islander}
+ \item{npa}{No party affiliation}
+ \item{whi}{White}
   \item{bla}{Black}
   \item{his}{Hispanic}
-  \item{oth}{Other}
-  \item{unk}{Unknown}
-  \item{whi}{White}
-  \item{new}{Registered to vote after June 30, 2000}
- 
+ \item{int}{Independent party}
+  \item{new}{Registered to vote after June 30, 2000} 
 	}  
   
 }
