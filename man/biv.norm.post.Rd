@@ -48,6 +48,6 @@ else crossprod(Z) %*% SqrtSigma)
 }  
 }
     
-    }
+   
 \keyword{models}
 

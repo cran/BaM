@@ -10,12 +10,12 @@
   A data frame where each case (row) is one of 516 precincts.  The column variables are defined by:
 	\describe{	
   \item{avgage}{Average age of precinct voters}
-  \item{tech}{Voting Technology}
+  \item{technology}{Voting Technology}
   \item{badballots}{combined overvotes and undervotes}
-  \item{turnout}{Total ballots cast}
-  \item{rep}{Republican}
+  \item{size}{Total ballots cast}
+  \item{Republican}{Republican}
  \item{npa}{No party affiliation}
- \item{whi}{White}
+ \item{white}{White}
   \item{bla}{Black}
   \item{his}{Hispanic}
  \item{int}{Independent party}

@@ -12,7 +12,7 @@
           \item{q3}{the 0.9 quantile}
  
     }
-}
+
 
  \references{	None
 }

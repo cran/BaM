@@ -13,6 +13,8 @@
 \alias{sigma.sq}
 \alias{wars.lm}
 \alias{y}
+\alias{n}
+\alias{x}
 
 \title{china.wars}
 \description{

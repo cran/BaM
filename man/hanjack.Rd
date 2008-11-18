@@ -19,7 +19,7 @@
     \item{WD}{Weak Democrat}
     \item{SD}{Strong Democrat}
     }
-}
+
  \references{	Hanushek, E. A. and Jackson, J. E.  (1977).  
                \emph{Statistical Methods for Social Scientists} San Diego, Academic Press
 }

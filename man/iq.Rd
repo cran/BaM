@@ -7,7 +7,7 @@
 }
 \usage{data(iq)}
 
-}
+
 \examples{
 \dontrun{
 {
