@@ -22,7 +22,7 @@ quantile(sqrt(r.sigma.sq), c(0.01,0.10,0.25,0.5,0.75,0.90,0.99))
 }
  
  \source{	Lynn, R. and Vanhanen, T.  (2001).  National IQ and Economic Development.
-               \emph{Mankind Quarterly} {\bf LXI}, 415-437.
+               \emph{Mankind Quarterly} LXI, 415-437.
 } 
 \keyword{datasets}
 

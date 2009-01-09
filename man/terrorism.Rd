@@ -12,7 +12,7 @@
 	Falkenrath, R.  (2001).	        	
 			
 		Analytical Models and Policy Prescription: Understanding Recent Innovation in U.S. Counterterrorism.
-		\emph{Studies in Conflict and Terrorism} {\bf 24}, 159-181.
+		\emph{Studies in Conflict and Terrorism}  24, 159-181.
 }
 
 \keyword{datasets}

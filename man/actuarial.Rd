@@ -2,8 +2,7 @@
 \title{actuarial}
 \alias{actuarial}
 \description{
-  Actuarial data.  
-}
+  Actuarial data.  }
 \usage{
 	data(actuarial)
 
@@ -12,7 +11,7 @@
 	Scollnik, D. P. M.  (2001).	        	
 				
 		Actuarial Modeling with MCMC and BUGS.
-		\emph{North American Actuarial Journal} {\bf 5}, 95-124.
+		\emph{North American Actuarial Journal}  5, 95-124.
 }
 
 \keyword{datasets}

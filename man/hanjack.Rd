@@ -10,7 +10,7 @@
   
     \item{N}{number of cases in the group}
     \item{F}{Observed cell proportion voting for Johnson}
-    \item{L}{log-ratio of this proportion given by $\mathbf{L}=\log [\mathbf{F}/(1-\mathbf{F})]$ }
+    \item{L}{log-ratio of this proportion, see p. 246}
     \item{W}{collects the inverse of the diagonal of the matrix for the group-weighting from $[N_iP_i(1-P_i)]$	 }
     \item{K}{constant}
     \item{IND}{indifference to the election}

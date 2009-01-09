@@ -49,7 +49,7 @@
  
  \source{	Conell, C. and Cohn, S.  (1995).  Learning from Other People's Actions: Environmental Variation and Diffusion in 
 French Coal Mining Strikes, 1890-1935
-               \emph{American Journal of Sociology} {\bf LI}, American Journal of Sociology.
+               \emph{American Journal of Sociology} LI, American Journal of Sociology.
 }
 \keyword{datasets}
 

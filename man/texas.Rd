@@ -10,7 +10,7 @@
 }
 \references{
 	The data consist of 1989 county level economic and demographic variables for the 196 nonmetropolitan 
-		counties in Texas out of all 2276 nonmetropolitan U.S. counties (``ERS Typology,'' \texttt{http://www.census.gov/}).  
+		counties in Texas out of all 2276 nonmetropolitan U.S. counties (``ERS Typology,'' \url{http://www.census.gov/}).  
 }
 
 \keyword{datasets}

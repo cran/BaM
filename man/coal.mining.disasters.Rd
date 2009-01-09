@@ -23,7 +23,7 @@
 }
  
  \source{	Lynn, R. and Vanhanen, T.  (2001).  National IQ and Economic Development.
-               \emph{Mankind Quarterly} {\bf LXI}, 415-437.
+               \emph{Mankind Quarterly} LXI, 415-437.
 }
 \keyword{datasets}
 

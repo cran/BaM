@@ -1,6 +1,6 @@
 Package: BaM 
-Version: 0.93
-Date: 2008-11-18
+Version: 0.95
+Date: 2009-01-09
 Author:Jeff Gill <jgill@wustl.edu>
 Maintainer: Jeff Gill <jgill@wustl.edu>
 Title: Functions and datasets for books by Jeff Gill.
@@ -9,4 +9,4 @@ Depends: R (>= 1.4.1), bayesm, coda, MASS, stats, mice, survival, foreign,nnet
 License: GPL 
 URL: jgill.wustl.edu
 LazyData: yes
-Packaged: Tue Nov 18 11:17:50 2008; rapkin
+Packaged: Wed Jan 14 13:33:51 2009; rapkin

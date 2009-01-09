@@ -12,7 +12,7 @@
 	Columbo, B.  (1952).	        	
 			      		
 		Preliminary Analysis of Recent Demographic Trends in Italy. 	              
-		\emph{Population Index} {\bf 18}, 265-279.
+		\emph{Population Index} 18, 265-279.
 }
 
 \keyword{datasets}

@@ -10,7 +10,7 @@
 \source{
 Bratton, M. and Van De Walle, N.  (1994).					
 		Neopatrimonial Regimes and Political Transitions in Africa.			
-		\emph{World Politics} {\bf 46}, 453-489.	
+		\emph{World Politics}  46, 453-489.	
 }
 
 
