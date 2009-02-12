@@ -12,7 +12,7 @@ n.post1 <- function(data.vec,pop.var,prior.mean,prior.var)  {
     mu.hat <- (prior.mean/prior.var + length(data.vec)*mean(data.vec)/pop.var)/
               (1/prior.var + length(data.vec)/pop.var)
     sigma.hat <- 1/(1/prior.var + length(data.vec)/pop.var)
-    credible.int<-c(mu.hat-1.96*sigma.hat,mu.hat+1.96*sigma.hat)
+    credible.int<-c(mu.hat-1.96*sqrt(sigma.hat),mu.hat+1.96*sqrt(sigma.hat))
     return( list(mu.hat=mu.hat,sigma.hat=sigma.hat, credible.interval=credible.int) )
  }
 
