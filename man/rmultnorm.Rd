@@ -7,10 +7,10 @@
 \usage{rmultnorm(n,mu,vmat,tol=1e-07)
 }
 \arguments{
-   \item{n}{}
-   \item{mu}{}
-   \item{vmat}{}
-   \item{tol}{}
+   \item{n}{n}
+   \item{mu}{mu}
+   \item{vmat}{vmat}
+   \item{tol}{tol}
    
 }
 
