@@ -1,6 +1,7 @@
 \name{actuarial}
 \title{actuarial}
 \alias{actuarial}
+\alias{.Traceback}
 \description{
   Actuarial data.  }
 \usage{
