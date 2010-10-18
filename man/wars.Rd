@@ -1,6 +1,5 @@
 \name{wars}
 \alias{wars}
-\docType{wars}
 \title{wars}
 \description{
    	wars data

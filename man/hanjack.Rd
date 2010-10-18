@@ -1,6 +1,5 @@
 \name{hanjack}
 \alias{hanjack}
-\docType{hanjack}
 \title{hanjack}
 \description{
    	1964 presidential election data.  See page 245
