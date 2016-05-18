@@ -1,0 +1,21 @@
+#' retail.sales
+#'
+#' @description Retail sales from 1979 through 1989 based on data provided by the U.S. Department of Commerce through the Survey of Current Business, see page 439
+#'
+#' The variables included in the dataset are:
+#' \itemize{
+#' \item\code{TIME} the economic quarter specified, starting from the first quarter of 1979 where j=1 to the fourth quarter of 1989 where j=44
+#' \item\code{DSB} national income wage and salary disbursements (in billions of dollars)
+#' \item\code{EMP} employees on non-agricultural payrolls (in thosuands)
+#' \item\code{BDG} building material dealer sales (in millions of dollars)
+#' \item\code{CAR} retail automotive dealer sales (in millions of dollars)
+#' \item\code{FRN} home furnishings dealer sales (in millions of dollars)
+#' \item\code{GMR} general merchandise dealer sales (in millions of dollars)
+#' }
+#'  
+#' @usage data(retail.sales)
+#' @format data frame with 44 observations of statistics for different economic quarters with 7 explanatory variables
+#' @source U.S. Department of Commerce data from first quarter of 1979 to fourth quarter of 1989
+#' @name retail.sales
+#' @docType data
+NULL

@@ -1,0 +1,50 @@
+#' Baldus Dataset
+#'
+#' Data from Baldus Study on death sentences in Georgia (Exercise 14.2, p. 521).
+#' To use the data in JAGS or WinBugs, see \code{baldus.jags} and \code{balfus.winbugs}, respectively. 
+#'
+#' The variables included in the dataset are:
+#' \itemize{
+#' \item\code{race} Defendant's race (1 = Black)
+#' \item\code{educatn} Educational level
+#' \item\code{employm} Employment status (1 = Employed)
+#' \item\code{SES} Socioeconomic status (1 = Low Wage)
+#' \item\code{married} Marital status (1 = Married)
+#' \item\code{num.chld} Number of children
+#' \item\code{military} Military experience (1 = Serving, 0 = No military service, -1 = Dishonorable Discharge)
+#' \item\code{pr.arrst}
+#' \item\code{plea} Plea to Murder Indictment
+#' \item\code{sentence} Sentenced
+#' \item\code{defense} Status of Principle Defense Council (1 = Retained, 2 = Appointed)
+#' \item\code{dp.sght} Prosecutor Waive/Fail to Seek DP (1 = Failed/Unknown, 2 = Sought DP)
+#' \item\code{jdge.dec} Judge Took Sentence from Jury? 
+#' \item\code{pen.phse} Was there a penalty trial? 
+#' \item\code{did.appl} Did defendant appeal cov. or sentence?
+#' \item\code{out.appl} Outcome of appeal
+#' \item\code{vict.sex} Victim sex
+#' \item\code{pr.incrc} 
+#' \item\code{vict.age} Victim's age
+#' \item\code{vict.rel} Relation of victim with defendant
+#' \item\code{vict.st1} Victim status (0 = Non-police+judicial, 1 = Polic+judicial)
+#' \item\code{vict.st2} 
+#' \item\code{specialA} Special Circumstances ()
+#' \item\code{methodA} Method of killing
+#' \item\code{num.kill} Number of persons killed by defendant
+#' \item\code{num.prps} Number of persons killed by coperpetrator
+#' \item\code{def.age} Defendant's age
+#' \item\code{aggrevat} Aggravating circumstances
+#' \item\code{bloody} Bloody crime
+#' \item\code{fam.lov} 
+#' \item\code{insane} Defendant invoked insanity defense
+#' \item\code{mitcir}
+#' \item\code{num.depr}
+#' \item\code{rape} Rape involved
+#'} 
+#'
+#' @usage data(baldus)
+#' @seealso baldus.jags baldus.winbugs
+#' @source Baldus, D. C., Pulaski, C., & Woodworth, G. (1983). Comparative review of death sentences: An empirical study of the Georgia experience. The Journal of Criminal Law and Criminology (1973-), 74(3), 661-753.
+#' @name baldus
+#' @aliases baldus.jags baldus.winbugs race educatn employm SES married num.chld pr.arrst plea sentence dp.sght jdge.dec pen.phse defense did.appl out.appl vict.age vict.rel vict.st1 vict.st2 specialA methodA num.kill num.prps def.age aggrevat bloody fam.lov insane mitcir num.depr rape vict.sex pr.incrc
+#' @docType data
+NULL

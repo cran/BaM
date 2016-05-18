@@ -1,16 +1,15 @@
 Package: BaM
-Version: 0.99
-Date: 2010-10-18
-Author: Jeff Gill <jgill@wustl.edu>
+Title: Functions and Datasets for Books by Jeff Gill
+Version: 1.0.1
+Author: Jonathan Homola <homola@wustl.edu>, Danielle Korman, Jacob Metz, Miguel Pereira <m.pereira@wustl.edu>, Mauricio Vela, and Jeff Gill <jgill@wustl.edu>
 Maintainer: Jeff Gill <jgill@wustl.edu>
-Title: Functions and datasets for books by Jeff Gill.
-Description: Books is "Bayesian Methods: A Social and Behavioral
-        Sciences Approach, Second Edition published by CRC Press, 2007"
-Depends: R (>= 1.4.1), bayesm, coda, MASS, stats, mice, survival,
-        foreign,nnet
-License: GPL
-URL: jgill.wustl.edu
-LazyData: yes
-Packaged: 2012-10-29 13:13:03 UTC; ripley
+Description: Functions and datasets for Jeff Gill: "Bayesian Methods: A Social and Behavioral Sciences Approach". First, Second, and Third Edition. Published by Chapman and Hall/CRC (2002, 2007, 2014).
+Depends: R (>= 3.0.1)
+Imports: coda, dlm, MASS, mice, nnet
+License: GPL (>= 2)
+LazyData: true
+RoxygenNote: 5.0.1
+NeedsCompilation: no
+Packaged: 2016-05-18 07:11:07 UTC; Jona
 Repository: CRAN
-Date/Publication: 2012-10-29 13:13:36
+Date/Publication: 2016-05-18 17:26:11

@@ -1,0 +1,20 @@
+#' pbc.vote
+#'
+#' @description Precinct level data for Palm Beach County, Florida from the 2000 U.S. Presidential Election, see page 149
+#'
+#' The variables included in the dataset are:
+#' \itemize{
+#' \item\code{badballots} Total number of spoiled ballots
+#' \item\code{technology} Voting Technology used, 0 for a datapunch machine or a butterfly ballot, 1 for votomatic
+#' \item\code{new} Number of "new" voters, as in those who have not voted in the precinct for previous 6 years
+#' \item\code{size} Total number of precinct voters
+#' \item\code{Republican} The number of voters registered as Republican
+#' \item\code{white} The number of white nonminority voters in a given precinct
+#' }
+#'  
+#' @usage data(pbc.vote)
+#' @format data frame with 516 observations of each precinct in Palm Beach County with 11 explanatory variables
+#' @source Palm Beach Post collected data from state and federal sources about precinct level data in Palm Beach County for the 2000 US presidential election
+#' @name pbc.vote
+#' @docType data
+NULL
