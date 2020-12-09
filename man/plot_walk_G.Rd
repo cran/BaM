@@ -21,4 +21,3 @@ plot_walk_G code used to produce figure 10.2
 \author{
 Jeff Gill
 }
-

@@ -19,4 +19,3 @@ Simple Gibbs sampler demonstration on conditional exponentials from Chapter 1 (p
 \author{
 Jeff Gill
 }
-

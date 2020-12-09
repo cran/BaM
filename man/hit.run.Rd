@@ -33,4 +33,3 @@ points(walks[5001:num.sims,],pch=".")
 \author{
 Jeff Gill
 }
-

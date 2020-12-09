@@ -14,7 +14,7 @@
 #' @param df The df for using the t distribution as the approx distribution
 #'
 #' @author Jeff Gill
-#' @import stats
+#' @importFrom stats pnorm rchisq runif
 #' @aliases logit.posterior.ll normal.posterior.ll t_posterior.ll probit.posterior.ll
 #' @examples
 #' \dontrun{ 

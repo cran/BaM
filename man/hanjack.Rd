@@ -34,4 +34,3 @@ hanjack(N,F,L,W,K,IND,DEM,WR,WD,SD)
 \references{
 Hanushek, E. A. and Jackson, J. E. (1977). Statistical Methods for Social Scientists San Diego, Academic Press
 }
-

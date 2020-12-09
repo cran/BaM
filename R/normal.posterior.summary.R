@@ -7,7 +7,7 @@
 #' @param reps  a matrix where the columns are defined as in the output of biv.norm.post:
 #'
 #' @author Jeff Gill
-#' @import stats
+#' @importFrom stats sd
 #' @seealso \code{\link{biv.norm.post}}
 #' @export
 normal.posterior.summary <- function(reps)  {

@@ -22,4 +22,3 @@ The variables included in the dataset are:
 \item\code{POP} the log of the county population total for 1989
 }
 }
-

@@ -23,4 +23,3 @@ The variables included in the dataset are:
 \item\code{Religion} 1 = Roman Catholic, 2 = Protestant/Church of England, 3 = others, 4 = none.
 }
 }
-

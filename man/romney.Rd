@@ -3,7 +3,9 @@
 \name{romney}
 \alias{romney}
 \title{romney}
-\format{See for yourself.  Modify as desired.}
+\format{
+See for yourself.  Modify as desired.
+}
 \source{
 Romney, A. K.  (1999).  Culture Consensus as a Statistical Model. \cr
  \emph{Current Anthropology} 40 (Supplement), S103-S115.
@@ -17,4 +19,3 @@ Analysis of cultural consensus data using binomial likelihood and beta prior.
 \author{
 Jeff Gill
 }
-

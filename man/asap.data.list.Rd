@@ -27,4 +27,3 @@ The variables included in the dataset are:
 \item\code{nonprofits} provides the total number of nonprofit groups in the respondents' state in the year 2008, divided by 10,000.
 }
 }
-

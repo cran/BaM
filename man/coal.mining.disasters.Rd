@@ -4,7 +4,9 @@
 \name{coal.mining.disasters}
 \alias{coal.mining.disasters}
 \title{coal.mining.disasters}
-\format{vector of length 111}
+\format{
+vector of length 111
+}
 \source{
 Lynn, R. and Vanhanen, T. (2001). National IQ and Economic Development. Mankind Quarterly LXI, 415-437.
 }
@@ -14,4 +16,3 @@ coal.mining.disasters
 \description{
 A vector of British Coal Mining Disasters, see page 549-550
 }
-

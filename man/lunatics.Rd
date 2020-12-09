@@ -19,4 +19,3 @@ The variables included in the dataset are:
 \item\code{PHOME} the percent of "lunatics" cared for in the home
 }
 }
-

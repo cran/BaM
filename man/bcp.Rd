@@ -30,4 +30,3 @@ bcp(theta.matrix,y,a,b,g,d)
 \author{
 Jeff Gill
 }
-

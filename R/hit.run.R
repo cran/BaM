@@ -9,7 +9,7 @@
 #' @param I.mat I.mat
 #'
 #' @author Jeff Gill
-#' @import stats
+#' @importFrom stats runif rgamma
 #' @examples
 #' ## Not run: 
 #' #code to implement graph on p. 362, see page 376.

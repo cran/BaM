@@ -26,4 +26,3 @@ quantile(sqrt(r.sigma.sq), c(0.01,0.10,0.25,0.5,0.75,0.90,0.99))
 }
 ## End(Not run)
 }
-

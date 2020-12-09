@@ -9,7 +9,7 @@
 #' @param m number of iterations
 #'
 #' @author Jeff Gill
-#' @import stats
+#' @importFrom stats runif rexp
 #' @export
 expo.gibbs <- function(B=5, k=15, m=5000)  {
   x <- y <- NULL

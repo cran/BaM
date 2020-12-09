@@ -16,8 +16,8 @@
 #'  \item{sig2}{posterior variance, dimension 1}
 #'  \item{rho}{posterior variance, dimension 2}
 #' @author Jeff Gill
-#' @import dlm
-#' @import stats
+#' @importFrom stats var
+#' @importFrom dlm rwishart
 #' @examples
 #' 
 #'  rwishart <- function(df, p = nrow(SqrtSigma), SqrtSigma = diag(p))  { 

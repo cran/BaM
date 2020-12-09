@@ -18,4 +18,3 @@ The variables included in the dataset are:
 \item\code{Size} Maximum fund size in millions
 }
 }
-

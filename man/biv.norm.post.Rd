@@ -52,4 +52,3 @@ A function to calculate posterior quantities of the bivariate normal.  See page 
 \author{
 Jeff Gill
 }
-

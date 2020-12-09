@@ -4,7 +4,9 @@
 \name{retail.sales}
 \alias{retail.sales}
 \title{retail.sales}
-\format{data frame with 44 observations of statistics for different economic quarters with 7 explanatory variables}
+\format{
+data frame with 44 observations of statistics for different economic quarters with 7 explanatory variables
+}
 \source{
 U.S. Department of Commerce data from first quarter of 1979 to fourth quarter of 1989
 }
@@ -25,4 +27,3 @@ The variables included in the dataset are:
 \item\code{GMR} general merchandise dealer sales (in millions of dollars)
 }
 }
-

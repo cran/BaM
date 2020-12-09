@@ -19,4 +19,3 @@ The variables included in the dataset are:
 \item\code{FARM} Total farm wage and salary disbursements in thousands of dollars per state in 1932
 }
 }
-

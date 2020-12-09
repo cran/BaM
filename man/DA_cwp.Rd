@@ -27,4 +27,3 @@ The variables included in the dataset are:
 \item\code{X2.3} 
 }
 }
-

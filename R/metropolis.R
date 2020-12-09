@@ -9,8 +9,8 @@
 #' @param I.mat I.mat
 #'
 #' @author Jeff Gill
-#' @import stats
-#' @import MASS
+#' @importFrom stats runif rchisq
+#' @importFrom MASS mvrnorm
 #' @export
 metropolis <- function(theta.matrix,reps,I.mat)  {
   for (i in 2:reps)  {

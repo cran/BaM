@@ -12,10 +12,9 @@ normal.posterior.summary(reps)
 \description{
 A function to calculate posterior quantities of bivariate normals.  See pages 74-80.
 }
-\author{
-Jeff Gill
-}
 \seealso{
 \code{\link{biv.norm.post}}
 }
-
+\author{
+Jeff Gill
+}

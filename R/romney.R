@@ -7,8 +7,8 @@
 #' 
 #' @source Romney, A. K.  (1999).  Culture Consensus as a Statistical Model. \cr
 #'  \emph{Current Anthropology} 40 (Supplement), S103-S115.
-#' @import stats
-#' @import graphics
+#' @importFrom stats dbeta qbeta
+#' @importFrom graphics par lines text
 #' @author Jeff Gill
 #' @export
 romney <- function()  {

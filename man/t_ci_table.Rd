@@ -26,4 +26,3 @@ A function to calculate credible intervals and make a table.  See page 169.
 \author{
 Jeff Gill
 }
-

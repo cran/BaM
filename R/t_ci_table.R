@@ -13,7 +13,7 @@
 #' @return quantile.mat	matrix of quantiles
 #' 
 #' @author Jeff Gill
-#' @import stats
+#' @importFrom stats qt var
 #' @export
 t_ci_table <- function(coefs,cov.mat,level=0.95,degrees=Inf,quantiles=c(0.025,0.500,0.975)) {
   quantile.mat <- cbind( coefs, sqrt(diag(cov.mat)),

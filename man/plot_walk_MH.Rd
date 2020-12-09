@@ -15,4 +15,3 @@ plot_walk_MH code used to produce figure 10.4
 \author{
 Jeff Gill
 }
-

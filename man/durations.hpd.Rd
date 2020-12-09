@@ -36,4 +36,3 @@ Simple HPD calculator from Chapter 2 (page 51, 2nd Edition).
 \author{
 Jeff Gill
 }
-

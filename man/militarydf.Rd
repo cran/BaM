@@ -2,10 +2,12 @@
 % Please edit documentation in R/militarydf-data.R
 \docType{data}
 \name{militarydf}
-\alias{military}
 \alias{militarydf}
+\alias{military}
 \title{militarydf}
-\format{a data frame with 35 observations of years from 1949 to 1983 with 10 explanatory variables}
+\format{
+a data frame with 35 observations of years from 1949 to 1983 with 10 explanatory variables
+}
 \source{
 Faber, J. (1989). Annual Data on Nine Economic and Military Characteristics of 78 Nations (SIRE NATDAT), 1948-1983. Ann Arbor: Inter-University Consortium for Political and Social Research and Amsterdam, and Amsterdam, the Netherlands: Europa Institute, Steinmetz Archive.
 }
@@ -29,4 +31,3 @@ The variables included in the dataset are:
 \item\code{USSR} The proportion change in the size of the Soviet Union's military 
 }
 }
-

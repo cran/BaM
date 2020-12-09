@@ -4,7 +4,9 @@
 \name{ethnic.immigration}
 \alias{ethnic.immigration}
 \title{ethnic.immigration}
-\format{total number of ethnic immigrants living in Western Europe from 22 countries}
+\format{
+total number of ethnic immigrants living in Western Europe from 22 countries
+}
 \source{
 Peach, C. (1997). Postwar Migration to Europe: Reflux, Influx, Refuge.	Social Science Quarterly 78, 269-283.
 }
@@ -22,4 +24,3 @@ The variables included in the dataset are:
 \item\code{Percent.of.Total} Percent of Total
 }
 }
-

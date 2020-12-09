@@ -4,7 +4,9 @@
 \name{executions}
 \alias{executions}
 \title{executions}
-\format{explanatory variables for 17 states}
+\format{
+explanatory variables for 17 states
+}
 \usage{
 data(executions)
 }
@@ -21,4 +23,3 @@ The variables included in the dataset are:
 \item\code{Violent.Crime} Rate of violent crime per 100,000 residents for 1996
 }
 }
-

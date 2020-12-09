@@ -10,7 +10,7 @@
 #' @param tol tolerance
 #' 
 #' @author Jeff Gill
-#' @import stats
+#' @importFrom stats rnorm
 #' @seealso \code{\link{biv.norm.post}}
 #' @export
 rmultinorm <- function(n, mu, vmat, tol = 1e-07) {

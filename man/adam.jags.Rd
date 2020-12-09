@@ -2,6 +2,7 @@
 % Please edit documentation in R/adam.jags-data.R
 \docType{data}
 \name{adam.jags}
+\alias{adam.jags}
 \alias{AGEGRP}
 \alias{CASES}
 \alias{CATS}
@@ -16,7 +17,6 @@
 \alias{RACE}
 \alias{SEX}
 \alias{SITE}
-\alias{adam.jags}
 \title{adam.jags}
 \usage{
 data(adam.jags)
@@ -46,4 +46,3 @@ The variables included in the dataset are:
 \item\code{SITE} coded according to: Indianapolis = 1 (759 cases), Ft. Lauderdale = 2 (974 cases),Phoenix = 3 (646 cases), and Dallas = 4 (586 cases) 
 }
 }
-

@@ -25,4 +25,3 @@ The variables included in the dataset are:
 \item\code{Past.opinion} Past opinion 
 }
 }
-

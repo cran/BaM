@@ -22,4 +22,3 @@ It produces the posterior mean, variance, and 95\% credible interval for user-sp
 \author{
 Jeff Gill
 }
-

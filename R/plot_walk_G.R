@@ -10,7 +10,7 @@
 #' @param Y Y
 #'
 #' @author Jeff Gill
-#' @import graphics
+#' @importFrom graphics plot segments
 #' @export
 plot_walk_G <- function(walk.mat,sim.rm,X=1,Y=2) {
   plot(walk.mat[1,X],walk.mat[1,Y],type="n",

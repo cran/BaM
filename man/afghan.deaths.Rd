@@ -4,11 +4,12 @@
 \name{afghan.deaths}
 \alias{afghan.deaths}
 \title{afghan.deaths}
-\format{52 monthly periods, listed by rows}
+\format{
+52 monthly periods, listed by rows
+}
 \usage{
 data(afghan.deaths)
 }
 \description{
 NATO Fatalities in Afghanistan, 10/01 to 1/07.  see page 350
 }
-

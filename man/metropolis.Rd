@@ -19,4 +19,3 @@ Implementation of metropolis function, p. 359.
 \author{
 Jeff Gill
 }
-

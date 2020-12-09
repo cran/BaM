@@ -12,7 +12,7 @@
 #' @param tol Tolerance for round-off
 #'
 #' @author Jeff Gill
-#' @import stats
+#' @importFrom stats pgamma
 #' @examples
 #' \dontrun{
 #'   get("cabinet.duration")

@@ -4,7 +4,9 @@
 \name{child}
 \alias{child}
 \title{child}
-\format{observations of 8 variables for 50 states}
+\format{
+observations of 8 variables for 50 states
+}
 \source{
 Meier, K.J. and Keisler, L.R. (1996). Public Administration as a Science of the Artificial: A Method for Prescription, Public Administration Review 56, 459-466.
 }
@@ -27,4 +29,3 @@ The variables included in the dataset are:
 \item\code{AEXPEND} State Level Expenditures
 }
 }
-

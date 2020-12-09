@@ -4,7 +4,9 @@
 \name{dp}
 \alias{dp}
 \title{dp}
-\format{7 variables for 17 states}
+\format{
+7 variables for 17 states
+}
 \source{
 Norrander, B. (2000).	The Multi-Layered Impact of Public Opinion on Capital Punishment Implementation in the American States. Political Research Quarterly 53, 771-793.
 }
@@ -27,4 +29,3 @@ The variables included in the dataset are:
 \item\code{PROPDEGREE} Proportion of population with college degree
 }
 }
-

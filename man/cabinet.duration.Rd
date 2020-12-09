@@ -4,7 +4,9 @@
 \name{cabinet.duration}
 \alias{cabinet.duration}
 \title{cabinet.duration}
-\format{cabinet duration of 11 countries}
+\format{
+cabinet duration of 11 countries
+}
 \usage{
 cabinet.duration
 }
@@ -24,4 +26,3 @@ Row names indicate country.
 \references{
 Browne, E. C., Frendreis, J. P., and Gleiber, D. W. (1986). The Process of Cabinet Dissolution: An Exponential Model of Duration and Stability in Western Democracies. American Journal of Political Science 30, 628-650.
 }
-

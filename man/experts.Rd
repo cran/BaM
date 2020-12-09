@@ -17,4 +17,3 @@ experts(q1,q2,q3)
 \description{
 Fabricated data on campaign fundraising elicitations. See page 120
 }
-

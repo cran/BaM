@@ -4,7 +4,9 @@
 \name{wars}
 \alias{wars}
 \title{wars}
-\format{a data frame of 104 observations of different China wars with 15 explanatory variables}
+\format{
+a data frame of 104 observations of different China wars with 15 explanatory variables
+}
 \source{
 Cioffi-Revilla, C. and Lai, D. (1995). War and Politics in Ancient China, 2700 B.C. to 722 B.C.: Measurement and Comparative Analysis. Journal of Conflict Resolution 39, 467-494.
 }
@@ -32,4 +34,3 @@ The variables included in the dataset are:
 \item\code{DURATION} duration of conflict, measured in years
 }
 }
-

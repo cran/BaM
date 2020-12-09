@@ -18,10 +18,9 @@ rmultinorm(n, mu, vmat, tol = 1e-07)
 \description{
 a function to generate random multivariate Gaussians.
 }
-\author{
-Jeff Gill
-}
 \seealso{
 \code{\link{biv.norm.post}}
 }
-
+\author{
+Jeff Gill
+}

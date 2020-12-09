@@ -5,13 +5,11 @@
 #' @author Jeff Gill
 #' @source Claudio Cioffi-Revilla and David Lai, 2001, \cr
 #'  "Chinese Warfare and Politics in the Ancient East Asian International System",\cr
-#'   Download from \url{http://hdl.handle.net/1902.1/02016} \cr
+#'   Download from <doi:10.1080/03050620108434971> \cr
 #'   Henry A. Murray Research Archive \cr
 #'   Center for International Relations, Department of Political Science, University of Colorado, Boulder, USA
-#' @import mice
-#' @import nnet
-#' @import coda
-#' @import stats
+#' @importFrom stats lm
+#' @importFrom mice mice complete
 #' @export
 china.wars<-function(){
   DA_cwp=NULL

@@ -4,7 +4,9 @@
 \name{contracep}
 \alias{contracep}
 \title{contracep}
-\format{4 variables for 15 countries}
+\format{
+4 variables for 15 countries
+}
 \source{
 Wong, G. Y. and Mason, W. M. (1985).	The Hierarchical Logistic Regression Model for Multilevel Analysis.	Journal of the American Statistical Association 80, 513-524.
 }
@@ -24,4 +26,3 @@ The variables included in the dataset are:
 \item\code{WED.FPE} Interaction term specified by Wong and Mason
 }
 }
-

@@ -10,7 +10,7 @@
 #' @param d Delta Value in the phi Prior
 #'
 #' @author Jeff Gill
-#' @import stats
+#' @importFrom stats rgamma
 #' @examples
 #' \dontrun{
 #' bcp(theta.matrix,y,a,b,g,d)

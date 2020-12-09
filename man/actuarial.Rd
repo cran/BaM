@@ -4,7 +4,9 @@
 \name{actuarial}
 \alias{actuarial}
 \title{actuarial}
-\format{dataset with 5 observations of 7 variables}
+\format{
+dataset with 5 observations of 7 variables
+}
 \source{
 Scollnik, D. P. M. (2001). Actuarial Modeling with MCMC and BUGS. North American Actuarial Journal 5, 95-124.
 }
@@ -22,4 +24,3 @@ The variables included in the dataset are:
 \item\code{claims} for groups 1, 2, and 3
 }
 }
-

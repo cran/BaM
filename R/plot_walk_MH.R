@@ -7,7 +7,7 @@
 #' @param walk.mat walk.mat
 #'
 #' @author Jeff Gill
-#' @import graphics
+#' @importFrom graphics plot segments
 #' @export
 plot_walk_MH <- function(walk.mat)  {
   plot(walk.mat[1,1],walk.mat[1,2],type="n",

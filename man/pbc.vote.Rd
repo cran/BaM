@@ -4,7 +4,9 @@
 \name{pbc.vote}
 \alias{pbc.vote}
 \title{pbc.vote}
-\format{data frame with 516 observations of each precinct in Palm Beach County with 11 explanatory variables}
+\format{
+data frame with 516 observations of each precinct in Palm Beach County with 11 explanatory variables
+}
 \source{
 Palm Beach Post collected data from state and federal sources about precinct level data in Palm Beach County for the 2000 US presidential election
 }
@@ -24,4 +26,3 @@ The variables included in the dataset are:
 \item\code{white} The number of white nonminority voters in a given precinct
 }
 }
-

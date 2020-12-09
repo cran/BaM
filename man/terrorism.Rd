@@ -4,7 +4,9 @@
 \name{terrorism}
 \alias{terrorism}
 \title{terrorism}
-\format{data frame with 14 observations of death rates for different years with 5 explanatory variables}
+\format{
+data frame with 14 observations of death rates for different years with 5 explanatory variables
+}
 \source{
 Falkenrath, R. (2001). Analytical Models and Policy Prescription: Understanding Recent Innovation in U.S. Counterterrorism. Studies in Conflict and Terrorism 24, 159-181.
 }
@@ -22,4 +24,3 @@ The variables included in the dataset are:
 \item\code{X.Suicide} The number of suicide that would occur per 100000 in the given year
 }
 }
-

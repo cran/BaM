@@ -21,4 +21,3 @@ dmultinorm function, see page 376.
 \author{
 Jeff Gill
 }
-
