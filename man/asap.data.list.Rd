@@ -21,7 +21,7 @@ The variables included in the dataset are:
 \item\code{partisan.ID} a 5-point ordinal variable (1-5) for the respondent's partisanship (strong Democrat to strong Republican).
 \item\code{category} categories of agency type.
 \item\code{med.time} whether the respondent spent more or less than the sample median with representatives of interest groups.
-\item\code{medt.contr} interaction variable betweenmed.time and contracting.
+\item\code{medt.contr} interaction variable between med.time and contracting.
 \item\code{gov.ideology} state government ideology from Berry et al. (1998) from 0 to 100.
 \item\code{lobbyists} total state lobbying registrants in 2000-01 from Gray and Lowery (1996, 2001).
 \item\code{nonprofits} provides the total number of nonprofit groups in the respondents' state in the year 2008, divided by 10,000.

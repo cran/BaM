@@ -1,5 +1,5 @@
-44dccdefad07083e2d202183fe122a61 *DESCRIPTION
-1a661244f4e2b296479c4ee6385d50a2 *NAMESPACE
+1a99e775133f7db6c428453ad413ce88 *DESCRIPTION
+39fadf08917b3a00ef8f65602dddb493 *NAMESPACE
 afb7e665cd41d16a5619389e960df014 *R/Actuarial.R
 285922f1d0e397de49845a78d2da1b71 *R/DA_cwp.R
 75c70cd1cce5c380c6e1239556603895 *R/Recidivism-data.R
@@ -9,7 +9,7 @@ d14a9fc54ec24c5a05921c7e19d42401 *R/africa.R
 749763750129625609f8d86532266def *R/asap.data.list-data.R
 49c53ee9297485f2bc73dfaeac68975b *R/baldus-data.R
 7047daa1975fc0920fd4f9c90d1655c3 *R/bcp.R
-2b0034a36da29c84f39246f89f5a12ac *R/biv.norm.post.R
+a8772caee9373032e298db56f7982cbe *R/biv.norm.post.R
 d760680c7d5b561a52589894a82e2f32 *R/cabinet.duration.R
 f34ea5135ebb20bb5b79bd585cd1544b *R/child.R
 5f0f8d5875b112476ff4c9ecd51360dc *R/china.wars.R
@@ -91,9 +91,9 @@ d15421a7984435b4ca8c56525305ed76 *data/texas.rda
 59ff5b798622c3a745248dd27985808f *man/actuarial.Rd
 e9309db4f9fe843b429238f077581984 *man/adam.jags.Rd
 4c94d2c64b15041b80de7fbc57698c93 *man/afghan.deaths.Rd
-000139b0f02565a7d6fb12fc18656c91 *man/africa.Rd
-87c8e81d749ebac22f2978734b379f39 *man/asap.data.list.Rd
-450dd68935d8d126f46338b743ab840d *man/baldus.Rd
+defafc7e41281f4b4f44c7d71f0a992d *man/africa.Rd
+b68b6cd193fc64edbfd237d71a221324 *man/asap.data.list.Rd
+1e3e2be6eee381e1dabaedee0c92cd52 *man/baldus.Rd
 02e9dff3e402141cf4fb37607dec2022 *man/bcp.Rd
 7b88bf88de373a2bd8f8b8418dc17c23 *man/biv.norm.post.Rd
 a730cd7752a7ae4b439bf9ec315270bc *man/cabinet.duration.Rd

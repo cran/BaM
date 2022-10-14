@@ -17,21 +17,8 @@
 #'  \item{rho}{posterior variance, dimension 2}
 #' @author Jeff Gill
 #' @importFrom stats var
-#' @importFrom dlm rwishart
 #' @examples
 #' 
-#'  rwishart <- function(df, p = nrow(SqrtSigma), SqrtSigma = diag(p))  { 
-#'  if((Ident <- missing(SqrtSigma)) && missing(p)) stop("either p or SqrtSigma must be specified") 
-#'  Z <- matrix(0, p, p) 
-#'  diag(Z) <- sqrt(rchisq(p, df:(df-p+1))) 
-#'  if(p > 1) { 
-#'    pseq <- 1:(p-1) 
-#'    Z[rep(p*pseq, pseq) + unlist(lapply(pseq, seq))] <- rnorm(p*(p-1)/2) 
-#'  } 
-#'  if(Ident) crossprod(Z) 
-#'  else crossprod(Z %*% SqrtSigma)
-#'  }
-#'   
 #'   data.n10 <- rmultinorm(10, c(1,3), matrix(c(1.0,0.7,0.7,3.0),2,2))
 #'   rep.mat <- NULL; reps <- 1000
 #'   for (i in 1:reps){
@@ -41,6 +28,18 @@
 #'     
 #' @export
 biv.norm.post <- function(data.mat,alpha,beta,m,n0=5) {
+  # rwishart function below is borrowed from (now archived) dlm function.
+  rwishart <- function(df, p = nrow(SqrtSigma), SqrtSigma = diag(p))  { 
+    if((Ident <- missing(SqrtSigma)) && missing(p)) stop("either p or SqrtSigma must be specified") 
+    Z <- matrix(0, p, p) 
+    diag(Z) <- sqrt(rchisq(p, df:(df-p+1))) 
+    if(p > 1) { 
+      pseq <- 1:(p-1) 
+      Z[rep(p*pseq, pseq) + unlist(lapply(pseq, seq))] <- rnorm(p*(p-1)/2) 
+    } 
+    if(Ident) crossprod(Z) 
+    else crossprod(Z %*% SqrtSigma)
+  }
   n <- nrow(data.mat)
   xbar <- apply(data.mat,2,mean)
   S2 <- (n-1)*var(data.mat)

@@ -5,7 +5,7 @@
 \alias{africa}
 \title{africa}
 \format{
-data frame with 33 observations of differenct African countries' military coups with 7 explanatory variables
+data frame with 33 observations of different African countries' military coups with 7 explanatory variables
 }
 \source{
 Bratton, M. and Van De Walle, N. (1994).	Neopatrimonial Regimes and Political Transitions in Africa.	World Politics 46, 453-489.

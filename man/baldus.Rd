@@ -72,7 +72,7 @@ The variables included in the dataset are:
 \item\code{pr.incrc} 
 \item\code{vict.age} Victim's age
 \item\code{vict.rel} Relation of victim with defendant
-\item\code{vict.st1} Victim status (0 = Non-police+judicial, 1 = Polic+judicial)
+\item\code{vict.st1} Victim status (0 = Non-police+judicial, 1 = Police+judicial)
 \item\code{vict.st2} 
 \item\code{specialA} Special Circumstances ()
 \item\code{methodA} Method of killing
